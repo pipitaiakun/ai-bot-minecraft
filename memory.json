@@ -1,0 +1,10 @@
+{
+  "friends": ["azzam"],
+  "enemies": [],
+  "home": {
+    "x": 10,
+    "y": 64,
+    "z": 20
+  },
+  "lastChat": null
+}
